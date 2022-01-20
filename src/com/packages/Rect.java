@@ -7,7 +7,7 @@ public class Rect {
         RectAttrib rect1 = new RectAttrib();
 
         rect1.setHeight(4);
-        rect1.setWidth(6);
+        rect1.setWidth(5);
  System.out.println(rect1.getHeight());
         System.out.println(rect1.getWidth());
     }
